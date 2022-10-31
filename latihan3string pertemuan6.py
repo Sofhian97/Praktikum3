@@ -1,0 +1,11 @@
+a=('*')
+
+print('{0:>5}'.format(a))
+print('{0:>6}'.format(a*3))
+print('{0:>7}'.format(a*5))
+print('{0:>8}'.format(a*7))
+print('{0:>9}'.format(a*9))
+print('{0:>8}'.format(a*7))
+print('{0:>7}'.format(a*5))
+print('{0:>6}'.format(a*3))
+print('{0:>5}'.format(a))
