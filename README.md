@@ -3,8 +3,8 @@
 ## MENGHITUNG LUAS DAN KELILING LINGKARAN MENGGUNAKAN PROGRAM PYTHON
 
 ### 
-1). Kita buat terlebih dahulu untuk flowchart dari sebuah program, agar program dapat kita pahami cara kerja dan logikanya seperti apa. 
-![flowchart luas dan keliling lingkaran](https://user-images.githubusercontent.com/116411792/199009836-572be647-ef81-4be2-9ed2-a3006082eab4.png) 
+1). Kita buat terlebih dahulu untuk flowchart dari sebuah program, agar program dapat kita pahami cara kerja dan logikanya seperti apa.  
+ ![flowchart luas dan keliling lingkaran](https://user-images.githubusercontent.com/116411792/199009836-572be647-ef81-4be2-9ed2-a3006082eab4.png) 
 Seperti flowchart pada umumnya, maka dimulai dengan sebuah "START", lalu pada bagian input flowchart adalah "masukkan r". Karena kita akan membuat program yang dimana jari-jari atau r pada lingkaran bisa ditentukan sendiri. Lalu pada bagian proses flowchart dicantumkan ketentuan dari Pi = 3.14 dan deskripsikan juga rumus dari luas dan keliling lingkaran. Selanjutnya bagian output yaitu menampilkan hasil dari luas dan keliling lingkaran. Diakhiri dengan "END" yang merupakan sebuah akhir dari siklus flowchart. 
 
 2). Setelah membuat flowchart, kita bisa lanjutkan proses selanjutnya yakni pembuatan program python untuk menghitung luas dan keliling lingkaran. Dibawah ini adalah contoh dari programnya.
